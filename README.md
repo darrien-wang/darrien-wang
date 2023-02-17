@@ -39,7 +39,7 @@
 
 
 <div align="center"><h3 align="center">Github Stats</h3>
-    <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=darrien-wang&show_icons=true&theme=radical&count_private=true">
+    <img alt="GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=darrien-wang&show_icons=true&theme=radical&count_private=true">
     <img alt="Darrien GitHub Streak" width="48%" src="https://streak-stats.demolab.com?user=darrien-wang">
 </div>
 
