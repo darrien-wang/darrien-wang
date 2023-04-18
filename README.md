@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Darrien</h1>
 <h2 align="center"> Front-End Developer</h2>
 <p align="center"> ⚡ I love <strong>contribeauting</strong> to open source projects and <strong>creativing</strong> new things!</p>
-<hr>
-
 
 <hr>
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
